@@ -4,7 +4,7 @@
 
 ### Snowflake · Streamlit · Architecture Medallion
 
-*Projet réalisé dans le cadre d'un projet de Architecture Big Data *
+*Projet réalisé dans le cadre du cours d'Architecture Big Data*
 
 ---
 
