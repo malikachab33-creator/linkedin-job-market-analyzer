@@ -34,7 +34,7 @@ On a pris un dataset massif d'offres d'emploi LinkedIn et on l'a transformé en 
 ## 🗂️ Structure du dépôt
 
 ```
-📁 projet-linkedin-snowflake/
+📁 linkedin-job-market-analyzer/
 │
 ├── 📄 README.md
 │
